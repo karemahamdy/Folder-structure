@@ -1,7 +1,7 @@
 "# Folder-structure" 
 # Structure Comparison: Feature-Based vs Layer-Based (Modular)
 
-## Option 1: Layer-Based Structure (What I showed previously)
+## Option 1: Layer-Based Structure 
 *Groups files by technical concerns (components, pages, store, etc.)*
 
 ```
@@ -27,7 +27,7 @@ src/
 
 ---
 
-## Option 2: Feature-Based Structure (Recommended for E-commerce)
+## Option 2: Feature-Based Structure 
 *Groups files by business features/domains*
 
 ```
